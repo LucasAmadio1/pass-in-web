@@ -18,4 +18,4 @@ export function IconButton({ transparent, ...props }: IconButtonProps) {
       {props.children}
     </button>
   )
-}
+}  
